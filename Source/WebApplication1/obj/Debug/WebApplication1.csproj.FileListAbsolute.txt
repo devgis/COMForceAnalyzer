@@ -1,0 +1,6 @@
+F:\Demo\ForceAnalyzer\Demo\WebApplication1\bin\WebApplication1.dll.config
+F:\Demo\ForceAnalyzer\Demo\WebApplication1\bin\WebApplication1.dll
+F:\Demo\ForceAnalyzer\Demo\WebApplication1\bin\WebApplication1.pdb
+F:\Demo\ForceAnalyzer\Demo\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\Demo\ForceAnalyzer\Demo\WebApplication1\obj\Debug\WebApplication1.dll
+F:\Demo\ForceAnalyzer\Demo\WebApplication1\obj\Debug\WebApplication1.pdb
